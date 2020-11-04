@@ -1,4 +1,4 @@
-###Team Members: Rafael Jimenez, Rolando Ramos  ,Erick Hernandez , Cristina Elizondo, Luz Yllescas.
+### Team Members: Rafael Jimenez, Rolando Ramos  ,Erick Hernandez , Cristina Elizondo, Luz Yllescas.
 # US Presidential Election 2020
 ### Team Omicrons 
 Data Analisys on US Presidential election based on Historical, Demographics and Poll election data.
